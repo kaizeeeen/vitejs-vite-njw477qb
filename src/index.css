@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles for Construction Theme */
+body {
+  background-color: #111827; /* construction-gray-900 */
+  color: #ffffff;
+}
